@@ -23,3 +23,4 @@ Then enjoy 😎
 - [Geting React ART on React Native](http://browniefed.com/blog/getting-react-art-running-on-react-native/)
 - [React Native morphing svg path with React ART](http://brow- [Hambuger button animation in Swift](http://robb.is/working-on/a-hamburger-button-transition/)niefed.com/blog/react-native-morphing-svg-paths-with-react-art/)
 - [Hambuger button animation in Swift](http://robb.is/working-on/a-hamburger-button-transition/)
+- [🎥 React Native @ 60fps](https://www.youtube.com/watch?v=qgSMjYWqBk4)
